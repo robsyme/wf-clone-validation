@@ -1,0 +1,7 @@
+reports:
+  "feature_table.txt":
+    display: "Feature table"
+  "sample_status.txt":
+    display: "Sample status"
+  "wf-clone-validation-report.html":
+    display: "Validation report"
